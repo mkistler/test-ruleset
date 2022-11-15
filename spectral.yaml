@@ -1,5 +1,5 @@
 extends: spectral:oas
-# functionsDir: './functions'
+functionsDir: './functions'
 # functions:
 #   - consistent-response-body
 #   - delete-204-response
